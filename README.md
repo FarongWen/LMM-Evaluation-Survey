@@ -410,8 +410,7 @@ If you find our work useful, please cite our paper as:
 |     IDKB     | [IDKB: Intelligent Driving Knowledge Base](https://arxiv.org/abs/2409.02914) | [Project Page](https://4dvlab.github.io/project_page/idkb.html) |
 |  VLADBench   | [VLADBench: Vision-Language-Action Driving Benchmark](https://arxiv.org/abs/2503.21505) |      [Github](https://github.com/Depth2World/VLADBench)      |
 |    DriVQA    | [DriVQA: Driving Visual Question Answering](https://www.sciencedirect.com/science/article/pii/S235234092500099X) |                                                              |
-| ADGV-Bench | [Are AI-Generated Driving Videos Ready for Autonomous Driving? A Diagnostic Evaluation Framework
-](https://arxiv.org/abs/2512.06376) | *Not available* |
+| ADGV-Bench | [Are AI-Generated Driving Videos Ready for Autonomous Driving? A Diagnostic Evaluation Framework](https://arxiv.org/abs/2512.06376) | *Not available* |
 
 #### Earth Science / Remote Sensing
 
@@ -542,7 +541,7 @@ If you find our work useful, please cite our paper as:
 | GUIZoom-Bench  | [Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding](https://arxiv.org/abs/2512.05941) | [Github](https://github.com/Princeton-AI2-Lab/ZoomClick) |
 | MICo-Bench | [MICo-150K: A Comprehensive Dataset Advancing Multi-Image Composition](https://arxiv.org/abs/2512.07348) | [Github](https://mico-150k.github.io) |
 | CS-Bench | [START: Spatial and Textual Learning for Chart Understanding](https://arxiv.org/abs/2512.07186) |    *Not available*   |
-| IF-Bench  | [IF-Bench: Benchmarking and Enhancing MLLMs for Infrared Images with Generative Visual Prompting](https://arxiv.org/abs/2512.09663) ｜ [Github](https://github.com/casiatao/IF-Bench) ｜
+| IF-Bench  | [IF-Bench: Benchmarking and Enhancing MLLMs for Infrared Images with Generative Visual Prompting](https://arxiv.org/abs/2512.09663) | [Github](https://github.com/casiatao/IF-Bench) ｜
 
 ### Video
 
