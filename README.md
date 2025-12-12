@@ -201,7 +201,8 @@ If you find our work useful, please cite our paper as:
 |      MC-MKE       | [MC-MKE: A Fine-Grained Multimodal Knowledge Editing Benchmark Emphasizing Modality Consistency](https://arxiv.org/pdf/2406.13219)[MIKE: A New Benchmark for Fine-grained Multimodal Entity Knowledge Editing](https://arxiv.org/pdf/2402.14835) |                       *Not available*                        |
 |      NegVQA       | [NegVQA: Can Vision Language Models Understand Negation? ](https://arxiv.org/pdf/2505.22946) |        [Github](https://github.com/yuhui-zh15/NegVQA)        |
 |      LongBench    | [LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding](https://arxiv.org/pdf/2308.14508)  |  [Github](https://github.com/THUDM/LongBench)                |    
-|      OPOR-BENCH    | [OPOR-Bench: Evaluating Large Language Models on Online Public Opinion Report Generation](https://arxiv.org/abs/2512.01896)  |  *Not available*               |   
+|      OPOR-BENCH    | [OPOR-Bench: Evaluating Large Language Models on Online Public Opinion Report Generation](https://arxiv.org/abs/2512.01896)  |  *Not available*               |
+| VRT-Bench | Visual [Reasoning Tracer: Object-Level Grounded Reasoning Benchmark](https://arxiv.org/abs/2512.05091) |  [Github](https://github.com/bytedance/Sa2VA/tree/main/projects/vrt_sa2va) |
 
 #### Comprehensive Perception
 
@@ -536,6 +537,10 @@ If you find our work useful, please cite our paper as:
 |                         WISE                         | [WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation](https://arxiv.org/pdf/2503.07265) |       [GitHub](https://github.com/PKU-YuanGroup/WISE)        |
 |                      KRIS-Bench                      | [KRIS-Bench: Benchmarking Next-Level Intelligent Image Editing Models](https://arxiv.org/pdf/2505.16707) | [GitHub](https://yongliang-wu.github.io/kris_bench_project_page/?utm_source=catalyzex.com) |
 |                     CoT-editing                      | [Enhancing Image Editing with Chain-of-Thought Reasoning and Multimodal Large Language Models](https://ieeexplore.ieee.org/document/10890562) |                       *Not available*                        |
+| GUIZoom-Bench  | [Zoom in, Click out: Unlocking and Evaluating the Potential of Zooming for GUI Grounding](https://arxiv.org/abs/2512.05941) | [Github](https://github.com/Princeton-AI2-Lab/ZoomClick) |
+| MICo-Bench | [MICo-150K: A Comprehensive Dataset Advancing Multi-Image Composition](https://arxiv.org/abs/2512.07348) | [Github](https://mico-150k.github.io) |
+| CS-Bench | [START: Spatial and Textual Learning for Chart Understanding](https://arxiv.org/abs/2512.07186) |    *Not available*   |
+| IF-Bench  | [IF-Bench: Benchmarking and Enhancing MLLMs for Infrared Images with Generative Visual Prompting](https://arxiv.org/abs/2512.09663) ｜ [Github](https://github.com/casiatao/IF-Bench) ｜
 
 ### Video
 
@@ -555,6 +560,11 @@ If you find our work useful, please cite our paper as:
 | An Implementation of Multimodal Fusion System | [An Implementation of Multimodal Fusion System for Intelligent Digital Human Generation](https://arxiv.org/pdf/2310.20251) |  [GitHub](https://github.com/zyj-2000/CUMT_2D_PhotoSpeaker)  |
 |                  RULER-Bench                  | [RULER-Bench: Probing Rule-based Reasoning Abilities of Next-level Video Generation Models for Vision Foundation Intelligence](https://arxiv.org/abs/2512.02622) |  [GitHub](https://hexmseeu.github.io/RULER-Bench-proj/)  |
 |    PAI-Bench    |    [PAI-Bench: A Comprehensive Benchmark For Physical AI](https://arxiv.org/abs/2512.01989) | [Github](https://github.com/SHI-Labs/physical-ai-bench)|
+| ADGV-Bench | [Are AI-Generated Driving Videos Ready for Autonomous Driving? A Diagnostic Evaluation Framework
+](https://arxiv.org/abs/2512.06376) | *Not available* |
+| Tri-Bench |  [Tri-Bench: Stress-Testing VLM Reliability on Spatial Reasoning under Camera Tilt and Object Interference](https://arxiv.org/abs/2512.08860) | [Github](https://github.com/Amiton7/Tri-Bench) |
+| OpenVE-Bench | [OpenVE-3M: A Large-Scale High-Quality Dataset for Instruction-Guided Video Editing](https://arxiv.org/abs/2512.07826) | [Github](https://lewandofskee.github.io/projects/OpenVE/) |
+| RVE-Bench |  [ReViSE: Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning](https://arxiv.org/abs/2512.09924) | [Github](https://github.com/Liuxinyv/ReViSE) |
 
 ### Audio
 
@@ -580,6 +590,9 @@ If you find our work useful, please cite our paper as:
 |           EmergentTTS-Eval            | [EmergentTTS-Eval: Evaluating TTS Models on Complex Prosodic, Expressiveness, and Linguistic Challenges Using Model-as-a-Judge](https://arxiv.org/pdf/2505.23009) | [GitHub](https://github.com/boson-ai/EmergentTTS-Eval-public) |
 |            InstructTTSEval            | [INSTRUCTTTSEVAL: Benchmarking Complex Natural-Language Instruction Following in Text-to-Speech Systems](https://arxiv.org/pdf/2506.16381) |  [GitHub](https://github.com/KexinHUANG19/InstructTTSEval)   |
 |               Mos-Bench               | [MOS-Bench: Benchmarking Generalization Abilities of Subjective Speech Quality Assessment Models](https://arxiv.org/pdf/2411.03715) |   [Hugging Face](https://huggingface.co/papers/2411.03715)   |
+| SH-Bench | [Protecting Bystander Privacy via Selective Hearing in LALMs](https://arxiv.org/abs/2512.06380) | [Huggingface](https://huggingface.co/datasets/
+BrianatCambridge/SelectiveHearingBench) |
+| LISN-Bench | [LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating](https://arxiv.org/abs/2512.09920) | [Github](https://social-nav.github.io/LISN-project/) |
 
 ### 3D
 
