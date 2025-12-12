@@ -589,8 +589,7 @@ If you find our work useful, please cite our paper as:
 |           EmergentTTS-Eval            | [EmergentTTS-Eval: Evaluating TTS Models on Complex Prosodic, Expressiveness, and Linguistic Challenges Using Model-as-a-Judge](https://arxiv.org/pdf/2505.23009) | [GitHub](https://github.com/boson-ai/EmergentTTS-Eval-public) |
 |            InstructTTSEval            | [INSTRUCTTTSEVAL: Benchmarking Complex Natural-Language Instruction Following in Text-to-Speech Systems](https://arxiv.org/pdf/2506.16381) |  [GitHub](https://github.com/KexinHUANG19/InstructTTSEval)   |
 |               Mos-Bench               | [MOS-Bench: Benchmarking Generalization Abilities of Subjective Speech Quality Assessment Models](https://arxiv.org/pdf/2411.03715) |   [Hugging Face](https://huggingface.co/papers/2411.03715)   |
-| SH-Bench | [Protecting Bystander Privacy via Selective Hearing in LALMs](https://arxiv.org/abs/2512.06380) | [Huggingface](https://huggingface.co/datasets/
-BrianatCambridge/SelectiveHearingBench) |
+| SH-Bench | [Protecting Bystander Privacy via Selective Hearing in LALMs](https://arxiv.org/abs/2512.06380) | [Huggingface](https://huggingface.co/datasets/BrianatCambridge/SelectiveHearingBench) |
 | LISN-Bench | [LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating](https://arxiv.org/abs/2512.09920) | [Github](https://social-nav.github.io/LISN-project/) |
 
 ### 3D
