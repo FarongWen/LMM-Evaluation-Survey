@@ -410,6 +410,8 @@ If you find our work useful, please cite our paper as:
 |     IDKB     | [IDKB: Intelligent Driving Knowledge Base](https://arxiv.org/abs/2409.02914) | [Project Page](https://4dvlab.github.io/project_page/idkb.html) |
 |  VLADBench   | [VLADBench: Vision-Language-Action Driving Benchmark](https://arxiv.org/abs/2503.21505) |      [Github](https://github.com/Depth2World/VLADBench)      |
 |    DriVQA    | [DriVQA: Driving Visual Question Answering](https://www.sciencedirect.com/science/article/pii/S235234092500099X) |                                                              |
+| ADGV-Bench | [Are AI-Generated Driving Videos Ready for Autonomous Driving? A Diagnostic Evaluation Framework
+](https://arxiv.org/abs/2512.06376) | *Not available* |
 
 #### Earth Science / Remote Sensing
 
@@ -560,8 +562,6 @@ If you find our work useful, please cite our paper as:
 | An Implementation of Multimodal Fusion System | [An Implementation of Multimodal Fusion System for Intelligent Digital Human Generation](https://arxiv.org/pdf/2310.20251) |  [GitHub](https://github.com/zyj-2000/CUMT_2D_PhotoSpeaker)  |
 |                  RULER-Bench                  | [RULER-Bench: Probing Rule-based Reasoning Abilities of Next-level Video Generation Models for Vision Foundation Intelligence](https://arxiv.org/abs/2512.02622) |  [GitHub](https://hexmseeu.github.io/RULER-Bench-proj/)  |
 |    PAI-Bench    |    [PAI-Bench: A Comprehensive Benchmark For Physical AI](https://arxiv.org/abs/2512.01989) | [Github](https://github.com/SHI-Labs/physical-ai-bench)|
-| ADGV-Bench | [Are AI-Generated Driving Videos Ready for Autonomous Driving? A Diagnostic Evaluation Framework
-](https://arxiv.org/abs/2512.06376) | *Not available* |
 | Tri-Bench |  [Tri-Bench: Stress-Testing VLM Reliability on Spatial Reasoning under Camera Tilt and Object Interference](https://arxiv.org/abs/2512.08860) | [Github](https://github.com/Amiton7/Tri-Bench) |
 | OpenVE-Bench | [OpenVE-3M: A Large-Scale High-Quality Dataset for Instruction-Guided Video Editing](https://arxiv.org/abs/2512.07826) | [Github](https://lewandofskee.github.io/projects/OpenVE/) |
 | RVE-Bench |  [ReViSE: Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning](https://arxiv.org/abs/2512.09924) | [Github](https://github.com/Liuxinyv/ReViSE) |
