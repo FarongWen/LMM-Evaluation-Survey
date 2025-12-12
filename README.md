@@ -41,32 +41,34 @@ If you find our work useful, please cite our paper as:
 
 ## Table of Contents
 
-1. [Understanding Evaluation](#understanding-evaluation)
-
-   * [General](#general)
-
-     * [Adaptability](#adaptability)
-     * [Basic Ability](#basic-ability)
-     * [Comprehensive Perception](#comprehensive-perception)
-     * [General Knowledge](#general-knowledge)
-     * [Safety](#safety)
-   * [Specialized](#specialized)
-
-     * [Math](#math)
-     * [Physics](#physics)
-     * [Chemistry](#chemistry)
-     * [Finance](#finance)
-     * [Healthcare & Medical Science](#healthcare--medical-science)
-     * [Code](#code)
-     * [Earth Science / Remote Sensing](#earth-science--remote-sensing)
-     * [Embodied Tasks](#embodied-tasks)
-2. [Generation Evaluation](#generation-evaluation)
-
-   * [Image](#image)
-   * [Video](#video)
-   * [Audio](#audio)
-   * [3D](#3d)
-3. [Leaderboards and Tools](#leaderboards-and-tools)
+- [Large Multimodal Models Evaluation: A Survey](#large-multimodal-models-evaluation-a-survey)
+  - [Contributions](#contributions)
+  - [📖 Citation](#-citation)
+  - [Table of Contents](#table-of-contents)
+  - [Understanding Evaluation](#understanding-evaluation)
+    - [General](#general)
+      - [Adaptability](#adaptability)
+      - [Basic Ability](#basic-ability)
+      - [Comprehensive Perception](#comprehensive-perception)
+      - [General Knowledge](#general-knowledge)
+      - [Safety](#safety)
+    - [Specialized](#specialized)
+      - [Math](#math)
+      - [Physics](#physics)
+      - [Chemistry](#chemistry)
+      - [Finance](#finance)
+      - [Healthcare \& Medical Science](#healthcare--medical-science)
+      - [Code](#code)
+    - [Autonomous Driving](#autonomous-driving)
+      - [Earth Science / Remote Sensing](#earth-science--remote-sensing)
+      - [Embodied Tasks](#embodied-tasks)
+      - [AI Agent](#ai-agent)
+  - [Generation Evaluation](#generation-evaluation)
+    - [Image](#image)
+    - [Video](#video)
+    - [Audio](#audio)
+    - [3D](#3d)
+  - [Leaderboards and Tools](#leaderboards-and-tools)
 
 ---
 
@@ -469,6 +471,11 @@ If you find our work useful, please cite our paper as:
 |  SEER-Bench  |       [Vision to Geometry: 3D Spatial Memory for Sequential Embodied MLLM Reasoning and Exploration](https://arxiv.org/abs/2512.02458)        |       *Not available*      |
 |  ReMindView-Bench   |       [Reasoning Path and Latent State Analysis for Multi-view Visual Spatial Reasoning: A Cognitive Science Perspective](https://arxiv.org/abs/2512.02340)        |     [Github](https://github.com/pittisl/ReMindView-Bench)     |
   
+#### AI Agent
+|                      Benchmark                       |                            Paper                             |                         Project Page                         |
+| :--------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|                     Self-rag                      | [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://arxiv.org/abs/2310.11511) |      [GitHub](https://github.com/AkariAsai/self-rag)       |
+|                     AMEM                    | [A-MEM: Agentic Memory for LLM Agents](https://arxiv.org/abs/2502.12110) |      [GitHub](https://github.com/agiresearch/A-mem)       |
 
 ## Generation Evaluation
 
