@@ -110,6 +110,9 @@ If you find our work useful, please cite our paper as:
 |        Chatbot Arena        | [Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference](https://arxiv.org/pdf/2403.04132) |                       *Not available*                        |
 | OpenAssistant Conversations | [OpenAssistant Conversations - Democratizing Large Language Model Alignment ](https://arxiv.org/pdf/2304.07327) |     [Github](https://github.com/LAION-AI/Open-Assistant)     |
 |             HCE             | [Human-Centric Evaluation for Foundation Models ](https://arxiv.org/pdf/2506.01793) | [Github](https://github.com/yijinguo/Human-Centric-Evaluation) |
+|       MemGUI-Bench          | [MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments](https://arxiv.org/abs/2602.06075) |  [Project Page](https://lgy0404.github.io/MemGUI-Bench/)   |
+|        OP-Bench             | [OP-Bench: Benchmarking Over-Personalization for Memory-Augmented Personalized Conversational Agents](https://arxiv.org/abs/2601.13722) |                       *Not available*                        |
+|        TEA-Bench            | [TEA-Bench: A Systematic Benchmarking of Tool-enhanced Emotional Support Dialogue Agent](https://arxiv.org/abs/2601.18700) |                       *Not available*                        |
 
 #### Basic Ability
 
@@ -205,6 +208,9 @@ If you find our work useful, please cite our paper as:
 |      LongBench    | [LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding](https://arxiv.org/pdf/2308.14508)  |  [Github](https://github.com/THUDM/LongBench)                |    
 |      OPOR-BENCH    | [OPOR-Bench: Evaluating Large Language Models on Online Public Opinion Report Generation](https://arxiv.org/abs/2512.01896)  |  *Not available*               |
 | VRT-Bench | Visual [Reasoning Tracer: Object-Level Grounded Reasoning Benchmark](https://arxiv.org/abs/2512.05091) |  [Github](https://github.com/bytedance/Sa2VA/tree/main/projects/vrt_sa2va) |
+|    LookBench      | [LookBench: A Live and Holistic Open Benchmark for Fashion Image Retrieval](https://arxiv.org/abs/2601.14706) |  [Project Page](https://serendipityoneinc.github.io/look-bench-page/)  |
+|   Progress-Bench  | [PROGRESSLM: Towards Progress Reasoning in Vision-Language Models](https://arxiv.org/abs/2601.15224) |                     [GitHub](https://github.com/ProgressLM/ProgressLM)                     |
+
 
 #### Comprehensive Perception
 
@@ -234,6 +240,7 @@ If you find our work useful, please cite our paper as:
 |     M3DBench      | [M3dbench: Let's instruct large models with multi-modal 3d prompts.](https://arxiv.org/abs/2312.10763) |        [GitHub](https://github.com/OpenM3D/M3DBench)         |
 |        M3D        | [M3d: Advancing 3d medical image analysis with multi-modal large language models.](https://arxiv.org/abs/2404.00578) |          [GitHub](https://github.com/BAAI-DCAI/M3D)          |
 |   Space3D-Bench   | [Space3d-bench: Spatial 3d question answering benchmark.](https://arxiv.org/abs/2408.16662) |       [Project Page](https://space3d-bench.github.io/)       |
+|   MMDR-Bench      | [MMDeepResearch-Bench: A Benchmark for Multimodal Deep Research Agents](https://arxiv.org/abs/2601.12346) |  [GitHub](https://github.com/AIoT-MLSys-Lab/MMDeepResearch-Bench)  |
 
 #### General Knowledge
 
@@ -252,6 +259,10 @@ If you find our work useful, please cite our paper as:
 | MDK12-Bench | [Mdk12-bench: A multi-discipline benchmark for evaluating reasoning in multimodal large language models.](https://arxiv.org/abs/2504.05782) |         [GitHub](https://github.com/LanceZPF/MDK12)          |
 |    EESE     | [The ever-evolving science exam.](https://arxiv.org/abs/2507.16514) |       [Project Page](https://github.com/aiben-ch/EESE)       |
 |   Q-Mirror  | [Q-Mirror: Unlocking the Multi-Modal Potential of Scientific Text-Only QA Pairs](https://arxiv.org/abs/2509.24297)  | [GitHub](https://github.com/aiben-ch/Q-Mirror)  |
+|  XCR-Bench  | [XCR-Bench: A Multi-Task Benchmark for Evaluating Cultural Reasoning in LLMs](https://arxiv.org/abs/2601.14063) |    [GitHub](https://github.com/mohsinulkabir14/xcr_bench)    |
+|  GLEN-Bench | [GLEN-Bench: A Graph-Language based Benchmark for Nutritional Health](https://arxiv.org/abs/2601.18106) |  [GitHub](https://github.com/J-Huang01/GLEN-Benchmark)  |
+|  RPC-Bench  | [RPC-Bench: A Fine-grained Benchmark for Research Paper Comprehension](https://arxiv.org/abs/2601.14289) |                     [GitHub](https://rpc-bench.github.io/)                   |
+| DeepSurvey-Bench | [DeepSurvey-Bench: Evaluating Academic Value of Automatically Generated Scientific Survey](https://arxiv.org/abs/2601.15307) |                       *Not available*                        |
 
 #### Safety
 
@@ -287,6 +298,7 @@ If you find our work useful, please cite our paper as:
 |     PrivQA      | [Can language models be instructed to protect personal information?](https://arxiv.org/abs/2310.02224) |                       *Not available*                        |
 |     SHIELD      | [Shield: An evaluation benchmark for face spoofing and forgery detection with multimodal large language models.](https://arxiv.org/abs/2402.04178) |       [GitHub](https://github.com/laiyingxin2/SHIELD)        |
 |   ExtremeAIGC   | [Extremeaigc: Benchmarking lmm vulnerability to ai-generated extremist content.](https://arxiv.org/abs/2503.09964) |                       *Not available*                        |
+| SPD-Faith Bench | [SPD-Faith Bench: Diagnosing and Improving Faithfulness in Chain-of-Thought for Multimodal Large Language Models](https://arxiv.org/abs/2602.07833) |  [GitHub](https://github.com/Johanson-colab/SPD-Faith-Bench)  |
 
 ### Specialized
 
@@ -376,6 +388,7 @@ If you find our work useful, please cite our paper as:
 |    Genome-Bench     | [Genome-Bench: Comprehensive Genomics Benchmark](https://arxiv.org/abs/2505.19501v1) | [Hugging Face](https://huggingface.co/datasets/Mingyin0312/Genome-Bench) |
 |    MedAgentsBench   | [MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning](https://arxiv.org/pdf/2503.07459) | [Github](https://github.com/gersteinlab/medagents-benchmark) |
 |      MedQ-Bench     | [MedQ-Bench: Evaluating and Exploring Medical Image Quality Assessment Abilities in MLLMs](https://arxiv.org/abs/2510.01691)   | [Github](https://github.com/liujiyaoFDU/MedQ-Bench) |
+| Health-ORSC-Bench   | [Health-ORSC-Bench: A Benchmark for Measuring Over-Refusal and Safety Completion in Health Context](https://arxiv.org/abs/2601.17642) |                       *Not available*                        |
 
 #### Code
 
@@ -392,6 +405,10 @@ If you find our work useful, please cite our paper as:
 |        M²Eval         | [M²Eval: Multimodal Code Evaluation](https://arxiv.org/abs/2507.08719) |         [Github](https://github.com/MCEVAL/MMCoder)          |
 |     BigDocs-Bench     | [BigDocs-Bench: Large Document Understanding](https://arxiv.org/abs/2412.04626) |          [Project Page](https://bigdocs.github.io/)          |
 |     BigDocs-Bench     | [Bigdocs: An open dataset for training multimodal models on document and code tasks.](https://arxiv.org/abs/2412.04626) |        [GitHub](https://github.com/Big-Docs/BigDocs)         |
+|    KOCO-BENCH         | [KOCO-BENCH: Can Large Language Models Leverage Domain Knowledge in Software Development?](https://arxiv.org/abs/2601.13240) |    [GitHub](https://github.com/jiangxxxue/KOCO-bench)        |
+|  Terminal-Bench 2.0   | [Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces](https://arxiv.org/abs/2601.11868) |   [GitHub](https://github.com/harbor-framework/terminal-bench-science)  |
+|   ContextBench        | [ContextBench: A Benchmark for Context Retrieval in Coding Agents](https://arxiv.org/abs/2602.05892) |         [GitHub](https://github.com/ContextBench)         |
+|  SWE-ContextBench     | [SWE Context Bench: A Benchmark for Context Learning in Coding](https://arxiv.org/abs/2602.08316) |                       *Not available*                        |
 
 ### Autonomous Driving
 
@@ -413,6 +430,7 @@ If you find our work useful, please cite our paper as:
 |  VLADBench   | [VLADBench: Vision-Language-Action Driving Benchmark](https://arxiv.org/abs/2503.21505) |      [Github](https://github.com/Depth2World/VLADBench)      |
 |    DriVQA    | [DriVQA: Driving Visual Question Answering](https://www.sciencedirect.com/science/article/pii/S235234092500099X) |                                                              |
 | ADGV-Bench | [Are AI-Generated Driving Videos Ready for Autonomous Driving? A Diagnostic Evaluation Framework](https://arxiv.org/abs/2512.06376) | *Not available* |
+| ScenePilot-Bench | [ScenePilot-Bench: A Large-Scale Dataset and Benchmark for Evaluation of Vision-Language Models in Autonomous Driving](https://arxiv.org/abs/2601.19582) |                 [GitHub](https://github.com/yjwangtj/ScenePilot-Bench)                  |
 
 #### Earth Science / Remote Sensing
 
@@ -549,6 +567,8 @@ If you find our work useful, please cite our paper as:
 | MICo-Bench | [MICo-150K: A Comprehensive Dataset Advancing Multi-Image Composition](https://arxiv.org/abs/2512.07348) | [Github](https://mico-150k.github.io) |
 | CS-Bench | [START: Spatial and Textual Learning for Chart Understanding](https://arxiv.org/abs/2512.07186) |    *Not available*   |
 | IF-Bench  | [IF-Bench: Benchmarking and Enhancing MLLMs for Infrared Images with Generative Visual Prompting](https://arxiv.org/abs/2512.09663) | [Github](https://github.com/casiatao/IF-Bench) ｜
+|              Q-Bench-Portrait                        | [Q-Bench-Portrait: Benchmarking Multimodal Large Language Models on Portrait Image Quality Perception](https://arxiv.org/abs/2601.18346) |                       *Not available*                        |
+
 
 ### Video
 
@@ -571,6 +591,7 @@ If you find our work useful, please cite our paper as:
 | Tri-Bench |  [Tri-Bench: Stress-Testing VLM Reliability on Spatial Reasoning under Camera Tilt and Object Interference](https://arxiv.org/abs/2512.08860) | [Github](https://github.com/Amiton7/Tri-Bench) |
 | OpenVE-Bench | [OpenVE-3M: A Large-Scale High-Quality Dataset for Instruction-Guided Video Editing](https://arxiv.org/abs/2512.07826) | [Github](https://lewandofskee.github.io/projects/OpenVE/) |
 | RVE-Bench |  [ReViSE: Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning](https://arxiv.org/abs/2512.09924) | [Github](https://github.com/Liuxinyv/ReViSE) |
+|                    VC-Bench                    | [VC-Bench: Pioneering the Video Connecting Benchmark with a Dataset and Evaluation Metrics](https://arxiv.org/abs/2601.19236) |    [GitHub](https://github.com/kevinson7515/VC-Bench)    |
 
 ### Audio
 
